@@ -30,19 +30,19 @@ into a pitch blackness. You seem to be in a long corridor.
 taste the cotton-candy grass.
 >"It's a miracle!"
 >You eat and eat until you find a beautiful unicorn.
- - Hey, handsome! I've been looking for you!
+ - Hey, handsome! I've been looking for you!, says the unicorn
  - Hi! Do i know you?
  - What a silly question! I need your help...
  Quick, help me count those...
- >🍬🍬🍬
- >🍬
- >🍬🍬🍬🪵🪵
- >🪵🍬🪵🍬 🪵🪵🍬
- >Uhhhh... I think that's a log? We should recount...
- >Good job dude! Now get outa here!, says the unicorn
+>🍬🍬🪵🍬
+>🍬🪵
+>🍬🍬🍬🪵🪵
+>🪵🍬🪵🍬 🪵🪵🍬
+>Uhhhh... I think that's a log? We should recount...
+>Good job dude! Now get outa here!, says the unicorn
  while blowing vanilla flavored dust at you.
 #Gandalf
-As the dust clears you see a figure with a REALLY pointy head.
+>As the dust clears you see a figure with a REALLY pointy head.
 "How did i get in this small wooden house?"
 >"Is that..."
 > - It's me! Gandalf! And i will be VERY quick.
@@ -63,10 +63,10 @@ you find the Wonder Buckets which are full of Magic Tokens.
 >But someone messed with the Magic Tokens
 >Can you find what is wrong?
 >🌸💮💮🌻🌸
->🪻🪻🌷🌹🌹
+>🌼🌼🌷🌹🌹
 >🌻🌻🌼🌼🌷
->🌼💮💮🌼🪻
->🪻🌹🥀🌷🪷
+>🌼💮💮🌼🌹
+>🌻🌹🥀🌷💮
 >Yay! You are good! Good luck!
 >Try again?
 #Maze
@@ -81,8 +81,15 @@ MuuuuuHaHaHa!
 They surround you and wont let you leave.
 A strange
 >Find the fastest path...
-> left (<) or right (>)?
->#the maze will be inserted here
+> left or right (hint: right, left, right, right)?
+>
+┌─┬  ─┬─────┐
+  └─┐ │ ╶─┐ │
+├─╴ │ └─┐ │ │
+│ ┌─┘ ╷ │ │ │
+│ │ ╷ └─┘ │ │
+│ └─┴─────┘ │
+└───────────┘
 >How did you...
 >Forever trapped!
 #Basement
@@ -91,13 +98,13 @@ you see a pair of stairs and decide to climb them.
 What could possibly do wrong?
 >"This must be some sort of basement"
 >Indeed it is! And as every good basement it has
-it's own fantom. Goblin Cow's grandmother!
+it's own phantom. Goblin Cow's grandmother!
 > - Who are you, you little twat?
 >You don't want to answer and start running and
 stumble upon a typing machine.
 Mhhueeeee! it's the sheep like sound that the machine does.
->"So pressing ONE creates this sound?"
->And the fantom slows down as it's suddenly sleepy?
+>"So pressing 1 creates this sound?"
+>And the phantom slows down as it's suddenly sleepy?
 >Can you put the ghost to sleep?
 >Nah, that's not how you count..
 >You learned counting!
@@ -119,13 +126,15 @@ Lamp Doppelganger Repulsive Mind Your BS
 > - Long time no seen, lil fella!
  Let's play a game and I'll let you pass.
 > Can you answer my riddles?
->#riddle 1
->#riddle 2
->#riddle 3
+>What month of the year has 28 days?
+>What is full of holes but still holds water?
+>What gets wet while drying?
 >Wrong! Lunch time!
 >You die... Womp womp womp.
 > - No way you are this smart.
  Go ahead, you are free...
 #Fontain of Life
+>You entered the Fontain of Live room.
+>You drink from the clear water...
 >Congratulations! You received eternal youth!
 >And a bonus for defeating Gremlin Cow . . . you are now invincible!
